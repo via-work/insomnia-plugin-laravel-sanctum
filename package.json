@@ -1,0 +1,38 @@
+{
+  "name": "insomnia-plugin-laravel-sanctum",
+  "version": "0.1.0",
+  "description": "Useful for setting the X-XSRF-TOKEN header in Laravel applications using Sanctum.",
+  "insomnia": {
+    "name": "laravel-sanctum",
+    "displayName": "Laravel Sanctum",
+    "description": "Useful for setting the X-XSRF-TOKEN header in Laravel applications using Sanctum.",
+    "images": {
+      "icon": "laravel.svg"
+    },
+    "publisher": {
+      "name": "Via Work",
+      "icon": "https://via.work/images/via-logo-email.png"
+    }
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/via-work/insomnia-plugin-laravel-sanctum"
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "laravel",
+    "csrf",
+    "laravel-sanctum"
+  ],
+  "author": "Vincent Chi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/via-work/insomnia-plugin-laravel-sanctum/issues"
+  },
+  "homepage": "https://github.com/via-work/insomnia-plugin-laravel-sanctum#readme",
+  "devDependencies": {
+    "insomnia-cookies": "^3.3.0"
+  }
+}
