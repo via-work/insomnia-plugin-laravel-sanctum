@@ -1,6 +1,6 @@
 {
   "name": "@via-work/insomnia-plugin-laravel-sanctum",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Useful for setting the X-XSRF-TOKEN header in Laravel applications using Sanctum.",
   "insomnia": {
     "name": "laravel-sanctum",
